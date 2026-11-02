@@ -1,0 +1,46 @@
+{
+  "manifest_version": "1.0",
+  "org": "django-commons",
+  "repo": "drf-excel",
+  "versions": [
+    {
+      "commit": "2d450c5b2aea0616515324b8c16a5049c4991906",
+      "parsed_at": "2026-11-02T18:29:11.166345+00:00",
+      "filetree": "filetree/2d450c5b2aea0616515324b8c16a5049c4991906.nq.gz",
+      "blobs": [
+        "blob/9c1f9a7e91950b4d4671a5c2b4cac10c3764ffe0.nq.gz",
+        "blob/9ac788b30421757b0022c42ec5e891a8e17b8a7d.nq.gz",
+        "blob/92f56b5608c8c79e2d72ccf8e7ef6f190839483b.nq.gz",
+        "blob/b2ae8c58c9f7859d0ffd1fabe55cb4540eb032f7.nq.gz",
+        "blob/493a04f1049d240fc4e8b0bc78974f67439bc5fb.nq.gz",
+        "blob/acec5ee7ec05d829d35db944d3b42aa4c1f9e20a.nq.gz",
+        "blob/140281c8bbce2109f4c48d29b5086336645e8ddb.nq.gz",
+        "blob/57c3bbdd5a0229dfd20397f5a97d8fee08008cc8.nq.gz",
+        "blob/da284c8c5412b24ad4aba83fb5dd0f959eba4676.nq.gz",
+        "blob/f1ba909a08286c638124ced2ec6affbbd5946288.nq.gz",
+        "blob/5e0ea8776f3ffe921cc0d77213cd6828a4d28455.nq.gz",
+        "blob/b39e014ee225831887463eae75b71ad03548c9a1.nq.gz",
+        "blob/bc582b0bed468c891a48ff1ed59cafb412acf0cc.nq.gz",
+        "blob/55ba27563b38185d882d228ab921eedc5b7f1b1e.nq.gz",
+        "blob/0ab43b5657aa39fae28109ef5427fb21183d6305.nq.gz",
+        "blob/6283075c9dd8f17208800b126b72125dd155a0e4.nq.gz",
+        "blob/2c39dc6762f80689603fd4039be27a9f58a118a9.nq.gz",
+        "blob/b33d4aba5eec220dc252d5278eb2fb6dcf163b0a.nq.gz",
+        "blob/709a044d87bc397cad453d37dd1324eb173b5170.nq.gz",
+        "blob/537f3a113c6f6d59a7351cc8d02bc7cf25f929fd.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/309001ab23742987480bb5c962bbe6dbc5c7e0c5.nq.gz",
+        "blob/24fd641bd55fad2c43e0a584c2c8dbcea1ca8e4c.nq.gz",
+        "blob/d5e80188a7ae2af7dd1a45e9a99bc2ef63a21714.nq.gz",
+        "blob/9e9a1a13081072292e5978845ca7a611c80e814c.nq.gz",
+        "blob/31899837e68203201c029a17442fff21866565fd.nq.gz",
+        "blob/080cd49451f39bf3cb201c0bf54c37fc2ae09a44.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
