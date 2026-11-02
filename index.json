@@ -1,0 +1,11 @@
+{
+  "org": "django-commons",
+  "repo": "drf-excel",
+  "versions": [
+    {
+      "commit": "2d450c5b2aea0616515324b8c16a5049c4991906",
+      "tag": "",
+      "parsed_at": "2026-11-02T18:31:52.517649+00:00"
+    }
+  ]
+}
