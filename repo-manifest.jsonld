@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/django-commons/drf-excel/commit/2d450c5b2aea0616515324b8c16a5049c4991906",
       "git:hexsha": "2d450c5b2aea0616515324b8c16a5049c4991906",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/django-commons/drf-excel/commit/829d2e3c7884d47aa5b5bfb085fc928e543356b4",
